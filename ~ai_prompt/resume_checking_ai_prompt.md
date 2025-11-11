@@ -3,10 +3,14 @@
 
 ## 💡 We have to think in the recruiters' perspective
 
-I am a recruiter and this is my candidate's resume\
-Check this resume carefully if he is fake or online money scammmer
+```
+I am a recruiter reviewing a candidate's resume. Please carefully analyze the following to ensure the authenticity of the candidate and their qualifications:
 
-- Check if there are any grammatical issues in the sentences.
-- Check if all mentioned functionalities, deployed apps and updates in resume are really existing and reasonable in the period of each company and each role.
-- Check if there is any inappropriate technical words or activities for the functionalities mentioned in each company.
-- Check if this candidate's career flow is reasonable and correct.
+* Grammar and Language: Review the resume for any grammatical or language issues that may suggest unprofessionalism or inaccuracy.
+
+* Job Experience and Role Validation: Verify that the mentioned roles, responsibilities, and deployed apps or updates align with reasonable expectations for the timeframes listed at each company. Ensure the described functionalities are plausible and achievable within the stated periods.
+
+* Technical Accuracy and Appropriateness: Check for any misuse or overstatement of technical terminology or activities that might be inconsistent with the described roles. Ensure that the technical skills and tasks mentioned are appropriate for the level and scope of each position.
+
+* Career Trajectory: Assess whether the candidate's career progression makes logical sense and follows a reasonable path based on industry standards.
+```
