@@ -1,4 +1,4 @@
-# Resume Making Method
+# Resume Making Method *origin mode*
 
 ## 0 - Role
 Full Stack Engineer, Data Engineer/Scientist/Analyst, RPA Engineer, etc ...
