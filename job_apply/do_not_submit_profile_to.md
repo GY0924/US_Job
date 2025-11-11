@@ -1,4 +1,3 @@
-# ToDo
+## Do not submit profiles to these companies
 
-## Avoid this companies to apply
 * **E-Solutions Inc** ( They are partnered with **USAFact** for their BGV process. )
