@@ -12,7 +12,7 @@
 | `AI/ML-Driven Software Solutions` | `Experience in Startup Environments` |
 | `SaaS Platform Development` | `Agile Scrum Methodology` |
 | `Troubleshooting & Debugging` | `Critical Thinking & Problem-Solving` |
-| `` | `` |
+| `Mobile Application Development Expertise` | `` |
 | `` | `` |
 | `` | `` |
 | `` | `` |
